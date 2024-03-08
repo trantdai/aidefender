@@ -1,2 +1,1 @@
-# aidefender
-Comprehensive AI Security Solution
+# AIDefender - Comprehensive AI Security Solutions
